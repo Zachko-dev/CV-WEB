@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=David+Libre:wght@500&display=swap');
+
+ 
+* {
+font-family: 'David Libre', sans-serif;
+}
+
+.conteiner_left{
+    background-color: #869096;
+    width: 30%;height:1500px;overflow:auto;float:left;
+    margin-left: 12rem;
+}
+
+.image_global{
+    
+}
+.image{
+    width: 250px;
+    margin-top: 4rem;
+    margin-left: 4rem;
+}
+
+.info_name{
+    margin-top: 2rem;
+    font-size: 50px;
+    margin-left: 50px;
+    color:black;
+}
+
+.info_job{
+    margin-top: 15px;
+    margin-left: 50px;
+    color:black;
+    font-size: 30px;
+}
+
+.contact_me{
+    margin-top: 15px;
+    margin-left: 50px;
+    font-size: 25px;
+    
+}
+
+.info_data{
+    margin-top: 10px;
+    padding: 25px;
+    background-color: #bdbdbd;
+    width: 70%;
+}
+.hard_skills,soft_skills{
+    color: black;
+}
+
+.hard_skills{
+   
+
+}
+.title{
+    margin-top: 15px;
+    margin-left: 50px;
+    font-size: 30px;
+    color: #bdbdbd;
+}
+
+.hs_list{
+    margin-top: 20px;
+    margin-left: 25px;
+    font-size: 30px;
+    width: 20%;
+}
+.soft_list{
+    margin-top: 20px;
+    margin-left: 25px;
+    font-size: 30px;
+    
+}
+
+.social_icons{
+    margin-top: 20px; 
+    margin-left: 25px;
+    
+}
+
+.social_icon{
+    width: 80px;
+    margin-top: 20px;
+    margin-left: 25px;
+    margin-bottom: 4rem;
+}
+
+
+
+
+
+.conteiner_right{
+    background-color:#707070;
+
+    width: 45%;height:1500px;overflow:auto;
+}
+.about{
+    margin-top: 4rem;
+}
+.text_about_me{
+    margin-top: 30px;
+    margin-left: 3rem;
+    font-size: 25px;
+    margin-right: 3rem;
+    line-height: 40px;
+    
+}
+.header_work{
+    text-align: center;
+    font-size: 27px;
+    margin-top: 25px;
+}
+.work_list{
+    margin-top: 30px;
+    margin-left: 1rem;
+    font-size: 25px;
+    margin-right: 2rem;
+}
+
+.header_education{
+    text-align: center;
+    font-size: 27px;
+    margin-top: 25px;
+}
+
+.list_education{
+    margin-top: 30px;
+    margin-left: 1rem;
+    font-size: 25px;
+    margin-right: 2rem;
+}
